@@ -31,8 +31,6 @@
     "meyda": "^4.3.1",
     "standardized-audio-context": "^24.1.26",
     "style-loader": "^1.2.1",
-    "webpack-dev-server": "^3.11.0",
-    "@aws-sdk/s3-request-presigner": "^3.9.0",
-    "@aws-sdk/client-s3": "^3.9.0"
+    "webpack-dev-server": "^3.11.0"
   }
 }
